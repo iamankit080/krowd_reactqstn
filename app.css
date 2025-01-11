@@ -1,0 +1,49 @@
+.app {
+    font-family: Arial, sans-serif;
+    padding: 15px;
+    text-align: center;
+  }
+  
+  .app-header {
+    background-color: #282c34;
+    padding: 15px;
+    color: white;
+  }
+  
+  .input-container {
+    margin: 15px;
+  }
+  
+  input {
+    padding: 10px;
+    font-size: 16px;
+    width: 200px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-left: 10px;
+    cursor: pointer;
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  button:hover {
+    background-color: darkgreen;
+  }
+  
+  .item-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .item-list li {
+    background-color: #f4f4f4;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
